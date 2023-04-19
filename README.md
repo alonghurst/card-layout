@@ -11,7 +11,7 @@
 
 ## Running
 
-1. Start a new command line inside the project root (e.g `C:/code/card-layout'). If you are following on from Installation then you should already have one open.
+1. Start a new command line inside the project root (e.g `C:/code/card-layout`). If you are following on from Installation then you should already have one open.
 1. Run the project: `npm run start`
 
 It should compile the code and then run in a new browser window. You can also navigate to `http://localhost:3000`.
