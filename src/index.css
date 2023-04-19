@@ -1,0 +1,42 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-wrapper{
+  margin-top: 0.75rem;
+}
+
+.card {
+  width: 200px;
+  height: 310px;
+  max-height: 310px;
+  border: 1px solid black;
+  display: grid;
+  grid-template-rows: min-content  min-content auto  min-content;
+  padding: 1rem;
+}
+
+.title {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 22pt;
+  margin:auto;
+  grid-row: 1;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+
+.type{
+  grid-row: 2;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 16pt;
+  margin:auto;
+}
+
+
+.description {
+  grid-row: 3;
+  font-size: 14pt;
+  margin: auto;
+}
