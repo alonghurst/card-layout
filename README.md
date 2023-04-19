@@ -5,7 +5,7 @@
 1. Install node.js if you have not already got it (https://nodejs.org/en)
 1. Install git if you have not already got it (https://git-scm.com/)
 1. Open a command line somewhere you want the project (e.g `C:/code`, `C:/users/person/documents`)
-1. Clone the repository with the following command: `git clone https://github.com/alonghurst/card-layout'
+1. Clone the repository with the following command: `git clone https://github.com/alonghurst/card-layout`
 1. Move into the cloned repository with the following command: `cd card-layout`
 1. Install npm packages: `npm i`
 
